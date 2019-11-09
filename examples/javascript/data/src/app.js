@@ -1,4 +1,6 @@
 
+alert("hahahaha")
+
 const { App } = require('jovo-framework');
 const { GoogleAssistant } = require('jovo-platform-googleassistant');
 const { Alexa } = require('jovo-platform-alexa');
