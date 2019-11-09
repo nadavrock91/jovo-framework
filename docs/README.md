@@ -1,5 +1,5 @@
 # Jovo Framework Documentation
-
+hahahaha
 [Take a look at the docs on our website, they're prettier there!](https://www.jovo.tech/docs/)
 
 > 🚀 Join our newsletter for free courses on voice app development: [www.jovo.tech/newsletter](https://www.jovo.tech/newsletter) 
